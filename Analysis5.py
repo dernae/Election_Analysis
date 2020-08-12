@@ -1,3 +1,9 @@
+#Election Analysis using Python from entirety of Module 3 
+
+
+
+
+
 #old way to open file 
 # import csv 
 #file_to_load = 'c:/Users/shean/OneDrive/Documents/Analytics folder/Module_3_Python/Resources/election_results.csv'
