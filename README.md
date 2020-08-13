@@ -6,7 +6,7 @@
    raw data from mail-in ballots, punch cards and digital recording electronic from the congressional race. To do so, 
     I used the script to gather information on: The voter turnout for each county, the percentage of votes from each 
      county out of the total count,the county with the highest turnoutthe total number of votes from each candidate,
-      the percentage of votes from each candidate based on the popular vote, the winner of the election based on popular vote. 
+      the percentage of votes from each candidate based on the popular vote and the winner of the election based on popular vote. 
   
  # Election-Audit Results
    - There were 369,711 votes cast in the congressional election. 
@@ -20,5 +20,5 @@
 # Election-Audit Summary 
   This script can be implemented in other elections with minor modifications such as changing the variables to be suitable for 
    the names of the new elections and outputting the names of the runerup if necessary. The script can successfully be used in 
-    senatatorial district elections. In addition, I propose that it may be used in local elections as well as for private use by
-     companies that conduct various elections. 
+    senatorial district elections. In addition, I propose that it may be used in local elections as well as for private use by
+     companies that conduct various elections internally. 
